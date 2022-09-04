@@ -1,7 +1,0 @@
-*.pt
-*.pth
-*.pkl
-*.pyc
-__pycache__
-det_results
-.vscode
